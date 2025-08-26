@@ -7,4 +7,4 @@ cap 4
 ---------//----
 
 
-Continuação pelo fork do cap4, em conta aulatips
+Edição para aprendizado em aula do módulo GIT e Git Hub TipsCode
